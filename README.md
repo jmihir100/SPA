@@ -1,0 +1,2 @@
+# SPA
+My react SPA
